@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">streamingapp</string>
+<string name="facebook_app_id">416783033839983</string>
+<string name="fb_login_protocol_scheme">097b8cdc07b12fc01c57fb8a732acef4</string>
+<string name="facebook_client_token">56789</string>
+</resources>

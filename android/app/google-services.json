@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204491602899",
+    "project_id": "mt-stream-86542",
+    "storage_bucket": "mt-stream-86542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204491602899:android:1677e5103b8aba44864d26",
+        "android_client_info": {
+          "package_name": "com.mtstream.mt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204491602899-q2cj1tk5jf932qt1fbp9plpgs99tnrqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyOkou8Zlxb9sNQTCDVyjG9VQPk0JbeWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204491602899-q2cj1tk5jf932qt1fbp9plpgs99tnrqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
